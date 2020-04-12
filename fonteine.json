@@ -1,0 +1,3066 @@
+[
+  {
+    "City": "greenfontein",
+    "AccentCity": "Greenfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.416667,
+    "Longitude": 25.9,
+    "ProvinceID": 5
+  },
+  {
+    "City": "groenfontein",
+    "AccentCity": "Groenfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.072403,
+    "Longitude": 26.331926,
+    "ProvinceID": 3
+  },
+  {
+    "City": "groenfontein",
+    "AccentCity": "Groenfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.639395,
+    "Longitude": 26.133002,
+    "ProvinceID": 5
+  },
+  {
+    "City": "groenfontein",
+    "AccentCity": "Groenfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.108493,
+    "Longitude": 19.347758,
+    "ProvinceID": 11
+  },
+  {
+    "City": "grootfontein",
+    "AccentCity": "Grootfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.63352,
+    "Longitude": 26.296903,
+    "ProvinceID": 3
+  },
+  {
+    "City": "grootfontein",
+    "AccentCity": "Grootfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33,
+    "Longitude": 18.2,
+    "ProvinceID": 11
+  },
+  {
+    "City": "groot-jongensfontein",
+    "AccentCity": "Groot-Jongensfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.42562,
+    "Longitude": 21.33995,
+    "ProvinceID": 11
+  },
+  {
+    "City": "groot matjiesfontein",
+    "AccentCity": "Groot Matjiesfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -30.516667,
+    "Longitude": 18.533333,
+    "ProvinceID": 11
+  },
+  {
+    "City": "groot-suurfontein",
+    "AccentCity": "Groot-Suurfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.337475,
+    "Longitude": 25.811647,
+    "ProvinceID": 3
+  },
+  {
+    "City": "haningfontein",
+    "AccentCity": "Haningfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.45,
+    "Longitude": 28.266667,
+    "ProvinceID": 9
+  },
+  {
+    "City": "hartbeesfontein",
+    "AccentCity": "Hartbeesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.14707,
+    "Longitude": 26.14397,
+    "ProvinceID": 3
+  },
+  {
+    "City": "hartbeesfontein",
+    "AccentCity": "Hartbeesfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.918545,
+    "Longitude": 29.676599,
+    "ProvinceID": 7
+  },
+  {
+    "City": "hartbeesfontein",
+    "AccentCity": "Hartbeesfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.765659,
+    "Longitude": 26.420241,
+    "ProvinceID": 10
+  },
+  {
+    "City": "hartbeestfontein",
+    "AccentCity": "Hartbeestfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.484091,
+    "Longitude": 27.736911,
+    "ProvinceID": 9
+  },
+  {
+    "City": "hartebeesfontein",
+    "AccentCity": "Hartebeesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.19654,
+    "Longitude": 26.41281,
+    "ProvinceID": 3
+  },
+  {
+    "City": "hartebeesfontein",
+    "AccentCity": "Hartebeesfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.633333,
+    "Longitude": 26.166667,
+    "ProvinceID": 5
+  },
+  {
+    "City": "hartebeesfontein",
+    "AccentCity": "Hartebeesfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.561515,
+    "Longitude": 28.076197,
+    "ProvinceID": 9
+  },
+  {
+    "City": "hartebeesfontein",
+    "AccentCity": "Hartebeesfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.889675,
+    "Longitude": 26.806962,
+    "ProvinceID": 10
+  },
+  {
+    "City": "hartebeestfontein",
+    "AccentCity": "Hartebeestfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.765659,
+    "Longitude": 26.420241,
+    "ProvinceID": 10
+  },
+  {
+    "City": "hartsenbergfontein",
+    "AccentCity": "Hartsenbergfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.397421,
+    "Longitude": 27.956029,
+    "ProvinceID": 6
+  },
+  {
+    "City": "hartzenbergfontein",
+    "AccentCity": "Hartzenbergfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.397421,
+    "Longitude": 27.956029,
+    "ProvinceID": 6
+  },
+  {
+    "City": "heelfontein",
+    "AccentCity": "Heelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.555184,
+    "Longitude": 26.551272,
+    "ProvinceID": 3
+  },
+  {
+    "City": "zandfontein",
+    "AccentCity": "Zandfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.374506,
+    "Longitude": 26.202694,
+    "ProvinceID": 5
+  },
+  {
+    "City": "zandfontein",
+    "AccentCity": "Zandfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -23.728268,
+    "Longitude": 29.121947,
+    "ProvinceID": 9
+  },
+  {
+    "City": "zesfontein",
+    "AccentCity": "Zesfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.082507,
+    "Longitude": 28.367682,
+    "ProvinceID": 6
+  },
+  {
+    "City": "zevenjaarsfontein",
+    "AccentCity": "Zevenjaarsfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.516667,
+    "Longitude": 26.833333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "zuurfontein",
+    "AccentCity": "Zuurfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.833333,
+    "Longitude": 26.816667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "zwartmodderfontein",
+    "AccentCity": "Zwartmodderfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -30.422681,
+    "Longitude": 28.879968,
+    "ProvinceID": 2
+  },
+  {
+    "City": "springfontein",
+    "AccentCity": "Springfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.092131,
+    "Longitude": 29.987053,
+    "ProvinceID": 7
+  },
+  {
+    "City": "springkaanfontein",
+    "AccentCity": "Springkaanfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.515957,
+    "Longitude": 27.056234,
+    "ProvinceID": 3
+  },
+  {
+    "City": "sterkfontein",
+    "AccentCity": "Sterkfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.784915,
+    "Longitude": 26.80914,
+    "ProvinceID": 3
+  },
+  {
+    "City": "sterkfontein",
+    "AccentCity": "Sterkfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.558276,
+    "Longitude": 25.664383,
+    "ProvinceID": 5
+  },
+  {
+    "City": "sterkfontein",
+    "AccentCity": "Sterkfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -25.033333,
+    "Longitude": 29.6,
+    "ProvinceID": 9
+  },
+  {
+    "City": "sterlefontein",
+    "AccentCity": "Sterlefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.25,
+    "Longitude": 26.066667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "stilfontein",
+    "AccentCity": "Stilfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.493227,
+    "Longitude": 26.597143,
+    "ProvinceID": 3
+  },
+  {
+    "City": "stilfontein",
+    "AccentCity": "Stilfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.844926,
+    "Longitude": 26.768294,
+    "ProvinceID": 10
+  },
+  {
+    "City": "stinkfontein",
+    "AccentCity": "Stinkfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.823496,
+    "Longitude": 17.254173,
+    "ProvinceID": 8
+  },
+  {
+    "City": "stinkhoutfontein",
+    "AccentCity": "Stinkhoutfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.809788,
+    "Longitude": 26.014333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "strandfontein",
+    "AccentCity": "Strandfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.966667,
+    "Longitude": 17.666667,
+    "ProvinceID": 8
+  },
+  {
+    "City": "strandfontein",
+    "AccentCity": "Strandfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.073097,
+    "Longitude": 18.561189,
+    "ProvinceID": 11
+  },
+  {
+    "City": "strydfontein",
+    "AccentCity": "Strydfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -30.467768,
+    "Longitude": 29.111807,
+    "ProvinceID": 2
+  },
+  {
+    "City": "strydfontein",
+    "AccentCity": "Strydfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.221281,
+    "Longitude": 26.255733,
+    "ProvinceID": 3
+  },
+  {
+    "City": "strydfontein",
+    "AccentCity": "Strydfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.798355,
+    "Longitude": 26.947665,
+    "ProvinceID": 5
+  },
+  {
+    "City": "strydfontein",
+    "AccentCity": "Strydfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.637033,
+    "Longitude": 28.040381,
+    "ProvinceID": 6
+  },
+  {
+    "City": "strydfontein",
+    "AccentCity": "Strydfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.045837,
+    "Longitude": 26.304178,
+    "ProvinceID": 10
+  },
+  {
+    "City": "suurfontein",
+    "AccentCity": "Suurfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.33085,
+    "Longitude": 26.15221,
+    "ProvinceID": 5
+  },
+  {
+    "City": "swakfontein",
+    "AccentCity": "Swakfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.136923,
+    "Longitude": 26.962158,
+    "ProvinceID": 5
+  },
+  {
+    "City": "swartfontein",
+    "AccentCity": "Swartfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.933333,
+    "Longitude": 28.6,
+    "ProvinceID": 3
+  },
+  {
+    "City": "swartfontein",
+    "AccentCity": "Swartfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.711733,
+    "Longitude": 26.94642,
+    "ProvinceID": 5
+  },
+  {
+    "City": "swartfontein",
+    "AccentCity": "Swartfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.206854,
+    "Longitude": 30.944757,
+    "ProvinceID": 7
+  },
+  {
+    "City": "sweetfontein",
+    "AccentCity": "Sweetfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.008388,
+    "Longitude": 26.830074,
+    "ProvinceID": 3
+  },
+  {
+    "City": "tibanefontein",
+    "AccentCity": "Tibanefontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -23.641568,
+    "Longitude": 29.012791,
+    "ProvinceID": 9
+  },
+  {
+    "City": "tienfontein",
+    "AccentCity": "Tienfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.153721,
+    "Longitude": 29.784695,
+    "ProvinceID": 7
+  },
+  {
+    "City": "truitjesfontein",
+    "AccentCity": "Truitjesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.5,
+    "Longitude": 26.266667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "turffontein",
+    "AccentCity": "Turffontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.241861,
+    "Longitude": 28.036932,
+    "ProvinceID": 6
+  },
+  {
+    "City": "tweefontein",
+    "AccentCity": "Tweefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -28.416667,
+    "Longitude": 29.083333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "tweefontein",
+    "AccentCity": "Tweefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.260874,
+    "Longitude": 26.402271,
+    "ProvinceID": 5
+  },
+  {
+    "City": "tweefontein",
+    "AccentCity": "Tweefontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.347628,
+    "Longitude": 28.835679,
+    "ProvinceID": 7
+  },
+  {
+    "City": "tweefontein",
+    "AccentCity": "Tweefontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.607116,
+    "Longitude": 19.517043,
+    "ProvinceID": 11
+  },
+  {
+    "City": "twyfelfontein",
+    "AccentCity": "Twyfelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.461936,
+    "Longitude": 25.801511,
+    "ProvinceID": 3
+  },
+  {
+    "City": "tygerfontein",
+    "AccentCity": "Tygerfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.887898,
+    "Longitude": 27.20813,
+    "ProvinceID": 10
+  },
+  {
+    "City": "valsfontein",
+    "AccentCity": "Valsfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.116667,
+    "Longitude": 29.083333,
+    "ProvinceID": 7
+  },
+  {
+    "City": "van de merwes fontein",
+    "AccentCity": "Van de Merwes Fontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.239015,
+    "Longitude": 26.941105,
+    "ProvinceID": 5
+  },
+  {
+    "City": "vasfontein",
+    "AccentCity": "Vasfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.541448,
+    "Longitude": 28.238862,
+    "ProvinceID": 6
+  },
+  {
+    "City": "venter fontein",
+    "AccentCity": "Venter Fontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.6,
+    "Longitude": 26.433333,
+    "ProvinceID": 5
+  },
+  {
+    "City": "vermaakfontein",
+    "AccentCity": "Vermaakfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.717144,
+    "Longitude": 26.329754,
+    "ProvinceID": 5
+  },
+  {
+    "City": "verstersfontein",
+    "AccentCity": "Verstersfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.063348,
+    "Longitude": 25.663945,
+    "ProvinceID": 5
+  },
+  {
+    "City": "vetfontein",
+    "AccentCity": "Vetfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -22.788545,
+    "Longitude": 29.42024,
+    "ProvinceID": 9
+  },
+  {
+    "City": "vetmaakfontein",
+    "AccentCity": "Vetmaakfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.03051,
+    "Longitude": 26.710503,
+    "ProvinceID": 3
+  },
+  {
+    "City": "vierfontein",
+    "AccentCity": "Vierfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.096136,
+    "Longitude": 26.775465,
+    "ProvinceID": 3
+  },
+  {
+    "City": "vinkelfontein",
+    "AccentCity": "Vinkelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.529228,
+    "Longitude": 26.924919,
+    "ProvinceID": 3
+  },
+  {
+    "City": "visagiesfontein",
+    "AccentCity": "Visagiesfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.8,
+    "Longitude": 16.65,
+    "ProvinceID": 8
+  },
+  {
+    "City": "vlakfontein",
+    "AccentCity": "Vlakfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -27.98033,
+    "Longitude": 31.164108,
+    "ProvinceID": 2
+  },
+  {
+    "City": "vlakfontein",
+    "AccentCity": "Vlakfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.470764,
+    "Longitude": 26.290785,
+    "ProvinceID": 3
+  },
+  {
+    "City": "vlakfontein",
+    "AccentCity": "Vlakfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.015407,
+    "Longitude": 29.844522,
+    "ProvinceID": 7
+  },
+  {
+    "City": "vlakfontein",
+    "AccentCity": "Vlakfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -25.066667,
+    "Longitude": 29.666667,
+    "ProvinceID": 9
+  },
+  {
+    "City": "vlakfontein",
+    "AccentCity": "Vlakfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.216667,
+    "Longitude": 26.816667,
+    "ProvinceID": 10
+  },
+  {
+    "City": "vnooifontein",
+    "AccentCity": "Vnooifontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.416667,
+    "Longitude": 26.2,
+    "ProvinceID": 3
+  },
+  {
+    "City": "voelfontein",
+    "AccentCity": "Vo�lfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.903955,
+    "Longitude": 25.853219,
+    "ProvinceID": 5
+  },
+  {
+    "City": "vogelfontein",
+    "AccentCity": "Vogelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.624356,
+    "Longitude": 26.210876,
+    "ProvinceID": 3
+  },
+  {
+    "City": "vogelstruisfontein",
+    "AccentCity": "Vogelstruisfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.955852,
+    "Longitude": 29.447015,
+    "ProvinceID": 7
+  },
+  {
+    "City": "waltersfontein",
+    "AccentCity": "Waltersfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.684282,
+    "Longitude": 25.58406,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kleinfontein",
+    "AccentCity": "Kleinfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.355657,
+    "Longitude": 26.555132,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kleinfontein",
+    "AccentCity": "Kleinfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -24.716667,
+    "Longitude": 30.516667,
+    "ProvinceID": 7
+  },
+  {
+    "City": "kleinfontein",
+    "AccentCity": "Kleinfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.138305,
+    "Longitude": 19.657578,
+    "ProvinceID": 11
+  },
+  {
+    "City": "kleinsevenfontein",
+    "AccentCity": "Kleinsevenfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.103567,
+    "Longitude": 26.413703,
+    "ProvinceID": 3
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.466667,
+    "Longitude": 28.233333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.241873,
+    "Longitude": 25.7316,
+    "ProvinceID": 5
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.816667,
+    "Longitude": 28.083333,
+    "ProvinceID": 6
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.9,
+    "Longitude": 29.233333,
+    "ProvinceID": 7
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.401317,
+    "Longitude": 28.849408,
+    "ProvinceID": 9
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "North West",
+    "Latitude": -27.324423,
+    "Longitude": 23.97402,
+    "ProvinceID": 10
+  },
+  {
+    "City": "klipfontein",
+    "AccentCity": "Klipfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.241658,
+    "Longitude": 18.428738,
+    "ProvinceID": 11
+  },
+  {
+    "City": "kluitfontein",
+    "AccentCity": "Kluitfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.75,
+    "Longitude": 27.483333,
+    "ProvinceID": 10
+  },
+  {
+    "City": "knoppiesfontein",
+    "AccentCity": "Knoppiesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.583333,
+    "Longitude": 25.566667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "koedoesfontein",
+    "AccentCity": "Koedoesfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.660513,
+    "Longitude": 26.437842,
+    "ProvinceID": 10
+  },
+  {
+    "City": "koelfontein",
+    "AccentCity": "Koelfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -31.166667,
+    "Longitude": 17.866667,
+    "ProvinceID": 11
+  },
+  {
+    "City": "koffiefontein",
+    "AccentCity": "Koffiefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.406611,
+    "Longitude": 25.003093,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kogelfontein",
+    "AccentCity": "Kogelfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -31.166667,
+    "Longitude": 17.866667,
+    "ProvinceID": 11
+  },
+  {
+    "City": "kommetjesfontein",
+    "AccentCity": "Kommetjesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.190899,
+    "Longitude": 25.631733,
+    "ProvinceID": 3
+  },
+  {
+    "City": "koopmansfontein",
+    "AccentCity": "Koopmansfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.233333,
+    "Longitude": 24.033333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "kopfontein",
+    "AccentCity": "Kopfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.973945,
+    "Longitude": 26.248875,
+    "ProvinceID": 5
+  },
+  {
+    "City": "koppiesfontein",
+    "AccentCity": "Koppiesfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.949367,
+    "Longitude": 25.900379,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kouefontein",
+    "AccentCity": "Kouefontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.980237,
+    "Longitude": 17.398518,
+    "ProvinceID": 8
+  },
+  {
+    "City": "kraaifontein",
+    "AccentCity": "Kraaifontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.080784,
+    "Longitude": 25.670836,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kraaifontein",
+    "AccentCity": "Kraaifontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.205584,
+    "Longitude": 26.879353,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kraaifontein",
+    "AccentCity": "Kraaifontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.848084,
+    "Longitude": 18.717235,
+    "ProvinceID": 11
+  },
+  {
+    "City": "kraalfontein",
+    "AccentCity": "Kraalfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.358401,
+    "Longitude": 26.053756,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kraalfontein",
+    "AccentCity": "Kraalfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.107181,
+    "Longitude": 26.609272,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kransfontein",
+    "AccentCity": "Kransfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -28.133234,
+    "Longitude": 28.56373,
+    "ProvinceID": 3
+  },
+  {
+    "City": "krapfontein",
+    "AccentCity": "Krapfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.451548,
+    "Longitude": 26.12065,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kromfontein",
+    "AccentCity": "Kromfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.083333,
+    "Longitude": 29.2,
+    "ProvinceID": 7
+  },
+  {
+    "City": "kruidfontein",
+    "AccentCity": "Kruidfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.62181,
+    "Longitude": 26.856965,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kruisfontein",
+    "AccentCity": "Kruisfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.625868,
+    "Longitude": 29.103569,
+    "ProvinceID": 2
+  },
+  {
+    "City": "kruisfontein",
+    "AccentCity": "Kruisfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -34.003333,
+    "Longitude": 24.731417,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kruisfontein",
+    "AccentCity": "Kruisfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.557102,
+    "Longitude": 28.063661,
+    "ProvinceID": 10
+  },
+  {
+    "City": "kwaggafontein",
+    "AccentCity": "Kwaggafontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.131052,
+    "Longitude": 26.144684,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kwaggafontein",
+    "AccentCity": "Kwaggafontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.29609,
+    "Longitude": 28.942368,
+    "ProvinceID": 7
+  },
+  {
+    "City": "kwaggafontein",
+    "AccentCity": "Kwaggafontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.661744,
+    "Longitude": 26.158224,
+    "ProvinceID": 10
+  },
+  {
+    "City": "wildebeesfontein",
+    "AccentCity": "Wildebeesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.741537,
+    "Longitude": 26.411379,
+    "ProvinceID": 3
+  },
+  {
+    "City": "wildebeesfontein",
+    "AccentCity": "Wildebeesfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.197176,
+    "Longitude": 29.551432,
+    "ProvinceID": 7
+  },
+  {
+    "City": "wildehondefontein",
+    "AccentCity": "Wildehondefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.907149,
+    "Longitude": 25.853778,
+    "ProvinceID": 5
+  },
+  {
+    "City": "wilgefontein",
+    "AccentCity": "Wilgefontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.916667,
+    "Longitude": 28.7,
+    "ProvinceID": 7
+  },
+  {
+    "City": "wilgerfontein",
+    "AccentCity": "Wilgerfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.909041,
+    "Longitude": 26.138561,
+    "ProvinceID": 3
+  },
+  {
+    "City": "witfontein",
+    "AccentCity": "Witfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.163558,
+    "Longitude": 26.615302,
+    "ProvinceID": 5
+  },
+  {
+    "City": "witfontein",
+    "AccentCity": "Witfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -29.622163,
+    "Longitude": 22.425673,
+    "ProvinceID": 8
+  },
+  {
+    "City": "witfontein",
+    "AccentCity": "Witfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.867561,
+    "Longitude": 26.161606,
+    "ProvinceID": 10
+  },
+  {
+    "City": "wolwefontein",
+    "AccentCity": "Wolwefontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.978149,
+    "Longitude": 29.45058,
+    "ProvinceID": 2
+  },
+  {
+    "City": "wolwefontein",
+    "AccentCity": "Wolwefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.233368,
+    "Longitude": 26.659091,
+    "ProvinceID": 5
+  },
+  {
+    "City": "wolwefontein",
+    "AccentCity": "Wolwefontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.339944,
+    "Longitude": 28.14852,
+    "ProvinceID": 9
+  },
+  {
+    "City": "wonderfontein",
+    "AccentCity": "Wonderfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.8,
+    "Longitude": 28.883333,
+    "ProvinceID": 6
+  },
+  {
+    "City": "yestervarkfontein",
+    "AccentCity": "Yestervarkfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.101473,
+    "Longitude": 26.5183,
+    "ProvinceID": 3
+  },
+  {
+    "City": "ysterfontein",
+    "AccentCity": "Ysterfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.344383,
+    "Longitude": 18.161571,
+    "ProvinceID": 11
+  },
+  {
+    "City": "ystervarkfontein",
+    "AccentCity": "Ystervarkfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.588163,
+    "Longitude": 28.717881,
+    "ProvinceID": 6
+  },
+  {
+    "City": "yzerfontein",
+    "AccentCity": "Yzerfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.344383,
+    "Longitude": 18.161571,
+    "ProvinceID": 11
+  },
+  {
+    "City": "zaaifontein",
+    "AccentCity": "Zaaifontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.10634,
+    "Longitude": 25.966825,
+    "ProvinceID": 5
+  },
+  {
+    "City": "osfontein",
+    "AccentCity": "Osfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.370422,
+    "Longitude": 26.287594,
+    "ProvinceID": 5
+  },
+  {
+    "City": "oudekraalfontein",
+    "AccentCity": "Oudekraalfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.066667,
+    "Longitude": 18.333333,
+    "ProvinceID": 11
+  },
+  {
+    "City": "oufontein",
+    "AccentCity": "Oufontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.483333,
+    "Longitude": 28.683333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "paddafontein",
+    "AccentCity": "Paddafontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.35,
+    "Longitude": 30.35,
+    "ProvinceID": 2
+  },
+  {
+    "City": "palmietfontein",
+    "AccentCity": "Palmietfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.234321,
+    "Longitude": 25.721637,
+    "ProvinceID": 3
+  },
+  {
+    "City": "palmietfontein",
+    "AccentCity": "Palmietfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.419906,
+    "Longitude": 27.528313,
+    "ProvinceID": 5
+  },
+  {
+    "City": "palmietfontein",
+    "AccentCity": "Palmietfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -23.534789,
+    "Longitude": 29.25572,
+    "ProvinceID": 9
+  },
+  {
+    "City": "papfontein",
+    "AccentCity": "Papfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.36385,
+    "Longitude": 26.685563,
+    "ProvinceID": 3
+  },
+  {
+    "City": "perdefontein",
+    "AccentCity": "Perdefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.423192,
+    "Longitude": 26.507696,
+    "ProvinceID": 3
+  },
+  {
+    "City": "plaaffontein",
+    "AccentCity": "Plaaffontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.383333,
+    "Longitude": 25.8,
+    "ProvinceID": 5
+  },
+  {
+    "City": "plaaitjiesfontein",
+    "AccentCity": "Plaaitjiesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.315055,
+    "Longitude": 26.533923,
+    "ProvinceID": 3
+  },
+  {
+    "City": "plaatfontein",
+    "AccentCity": "Plaatfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.934132,
+    "Longitude": 26.982243,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kwartfontein",
+    "AccentCity": "Kwartfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.201927,
+    "Longitude": 26.675861,
+    "ProvinceID": 3
+  },
+  {
+    "City": "aasfontein",
+    "AccentCity": "Aasfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.7654,
+    "Longitude": 19.856122,
+    "ProvinceID": 11
+  },
+  {
+    "City": "annisfontein",
+    "AccentCity": "Annisfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.416667,
+    "Longitude": 16.883333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "baakfontein",
+    "AccentCity": "Baakfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.650316,
+    "Longitude": 26.356453,
+    "ProvinceID": 3
+  },
+  {
+    "City": "badfontein",
+    "AccentCity": "Badfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.347976,
+    "Longitude": 30.360542,
+    "ProvinceID": 7
+  },
+  {
+    "City": "badsfontein",
+    "AccentCity": "Badsfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.5,
+    "Longitude": 26.233333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "badsfontein",
+    "AccentCity": "Badsfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.347976,
+    "Longitude": 30.360542,
+    "ProvinceID": 7
+  },
+  {
+    "City": "balkfontein",
+    "AccentCity": "Balkfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.383333,
+    "Longitude": 26.5,
+    "ProvinceID": 3
+  },
+  {
+    "City": "bankfontein",
+    "AccentCity": "Bankfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.651829,
+    "Longitude": 26.073944,
+    "ProvinceID": 3
+  },
+  {
+    "City": "bankfontein",
+    "AccentCity": "Bankfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.877228,
+    "Longitude": 26.906518,
+    "ProvinceID": 5
+  },
+  {
+    "City": "bergfontein",
+    "AccentCity": "Bergfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.840868,
+    "Longitude": 26.23951,
+    "ProvinceID": 5
+  },
+  {
+    "City": "poortjiesfontein",
+    "AccentCity": "Poortjiesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.64156,
+    "Longitude": 26.02369,
+    "ProvinceID": 3
+  },
+  {
+    "City": "potfontein",
+    "AccentCity": "Potfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.204114,
+    "Longitude": 24.108881,
+    "ProvinceID": 8
+  },
+  {
+    "City": "putfontein",
+    "AccentCity": "Putfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.122288,
+    "Longitude": 28.404054,
+    "ProvinceID": 6
+  },
+  {
+    "City": "putfontein",
+    "AccentCity": "Putfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.25,
+    "Longitude": 26.483333,
+    "ProvinceID": 10
+  },
+  {
+    "City": "quaggafontein",
+    "AccentCity": "Quaggafontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.131052,
+    "Longitude": 26.144684,
+    "ProvinceID": 3
+  },
+  {
+    "City": "quaggafontein",
+    "AccentCity": "Quaggafontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.855522,
+    "Longitude": 26.551649,
+    "ProvinceID": 5
+  },
+  {
+    "City": "randfontein",
+    "AccentCity": "Randfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.217399,
+    "Longitude": 26.502405,
+    "ProvinceID": 5
+  },
+  {
+    "City": "randfontein",
+    "AccentCity": "Randfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.178429,
+    "Longitude": 27.690266,
+    "ProvinceID": 6
+  },
+  {
+    "City": "randjesfontein",
+    "AccentCity": "Randjesfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.951667,
+    "Longitude": 28.1425,
+    "ProvinceID": 6
+  },
+  {
+    "City": "reitfontein",
+    "AccentCity": "Reitfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.213405,
+    "Longitude": 26.944672,
+    "ProvinceID": 3
+  },
+  {
+    "City": "reitfontein",
+    "AccentCity": "Reitfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.5,
+    "Longitude": 29.2,
+    "ProvinceID": 7
+  },
+  {
+    "City": "reitfontein",
+    "AccentCity": "Reitfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.083333,
+    "Longitude": 23.25,
+    "ProvinceID": 8
+  },
+  {
+    "City": "renosterfontein",
+    "AccentCity": "Renosterfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -33.166207,
+    "Longitude": 25.563832,
+    "ProvinceID": 5
+  },
+  {
+    "City": "renosterfontein",
+    "AccentCity": "Renosterfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.553582,
+    "Longitude": 27.906282,
+    "ProvinceID": 9
+  },
+  {
+    "City": "rheboksfontein",
+    "AccentCity": "Rheboksfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.184653,
+    "Longitude": 27.366198,
+    "ProvinceID": 3
+  },
+  {
+    "City": "rheboksfontein",
+    "AccentCity": "Rheboksfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.70717,
+    "Longitude": 25.854259,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rheboksfontein",
+    "AccentCity": "Rheboksfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.078813,
+    "Longitude": 22.163429,
+    "ProvinceID": 11
+  },
+  {
+    "City": "rheeboksfontein",
+    "AccentCity": "Rheeboksfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.677559,
+    "Longitude": 25.845022,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rhenosterfontein",
+    "AccentCity": "Rhenosterfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.28211,
+    "Longitude": 25.70546,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rhenosterfontein",
+    "AccentCity": "Rhenosterfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.266667,
+    "Longitude": 28.566667,
+    "ProvinceID": 6
+  },
+  {
+    "City": "rhenosterfontein",
+    "AccentCity": "Rhenosterfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -23.883818,
+    "Longitude": 28.426346,
+    "ProvinceID": 9
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -30.540202,
+    "Longitude": 29.245951,
+    "ProvinceID": 2
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.106011,
+    "Longitude": 28.096659,
+    "ProvinceID": 3
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.811962,
+    "Longitude": 26.973799,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.706865,
+    "Longitude": 28.224287,
+    "ProvinceID": 6
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.082594,
+    "Longitude": 30.827537,
+    "ProvinceID": 7
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -26.742615,
+    "Longitude": 20.028945,
+    "ProvinceID": 8
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.616667,
+    "Longitude": 30.55,
+    "ProvinceID": 9
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.783333,
+    "Longitude": 27.466667,
+    "ProvinceID": 10
+  },
+  {
+    "City": "biejesfontein",
+    "AccentCity": "Biejesfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -31.016667,
+    "Longitude": 17.883333,
+    "ProvinceID": 11
+  },
+  {
+    "City": "biesiefontein",
+    "AccentCity": "Biesiefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.707338,
+    "Longitude": 26.483415,
+    "ProvinceID": 3
+  },
+  {
+    "City": "biesiesfontein",
+    "AccentCity": "Biesiesfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -31.016667,
+    "Longitude": 17.883333,
+    "ProvinceID": 11
+  },
+  {
+    "City": "biesjesfontein",
+    "AccentCity": "Biesjesfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -31.016667,
+    "Longitude": 17.883333,
+    "ProvinceID": 11
+  },
+  {
+    "City": "biltonfontein",
+    "AccentCity": "Biltonfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.001568,
+    "Longitude": 28.992496,
+    "ProvinceID": 9
+  },
+  {
+    "City": "bitterfontein",
+    "AccentCity": "Bitterfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -31.03709,
+    "Longitude": 18.264841,
+    "ProvinceID": 11
+  },
+  {
+    "City": "blackfontein",
+    "AccentCity": "Blackfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.453109,
+    "Longitude": 28.346835,
+    "ProvinceID": 5
+  },
+  {
+    "City": "blaufontein",
+    "AccentCity": "Blaufontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.066667,
+    "Longitude": 25.9,
+    "ProvinceID": 5
+  },
+  {
+    "City": "blesbokfontein",
+    "AccentCity": "Blesbokfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.558201,
+    "Longitude": 25.765375,
+    "ProvinceID": 3
+  },
+  {
+    "City": "bloedfontein",
+    "AccentCity": "Bloedfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.05,
+    "Longitude": 28.916667,
+    "ProvinceID": 7
+  },
+  {
+    "City": "bloemfontein",
+    "AccentCity": "Bloemfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.121065,
+    "Longitude": 26.214003,
+    "ProvinceID": 3
+  },
+  {
+    "City": "boekenhoutfontein",
+    "AccentCity": "Boekenhoutfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.5,
+    "Longitude": 28.083333,
+    "ProvinceID": 6
+  },
+  {
+    "City": "boekenhoutfontein",
+    "AccentCity": "Boekenhoutfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.540986,
+    "Longitude": 28.078555,
+    "ProvinceID": 10
+  },
+  {
+    "City": "boschfontein",
+    "AccentCity": "Boschfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -30.583333,
+    "Longitude": 29.116667,
+    "ProvinceID": 2
+  },
+  {
+    "City": "boschfontein",
+    "AccentCity": "Boschfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.101023,
+    "Longitude": 30.248202,
+    "ProvinceID": 7
+  },
+  {
+    "City": "bosfontein",
+    "AccentCity": "Bosfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -33.678448,
+    "Longitude": 26.28521,
+    "ProvinceID": 5
+  },
+  {
+    "City": "bosfontein",
+    "AccentCity": "Bosfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.742372,
+    "Longitude": 31.617981,
+    "ProvinceID": 7
+  },
+  {
+    "City": "bosfontein",
+    "AccentCity": "Bosfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.7,
+    "Longitude": 27.683333,
+    "ProvinceID": 10
+  },
+  {
+    "City": "bossenfontein",
+    "AccentCity": "Bossenfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.391415,
+    "Longitude": 29.944492,
+    "ProvinceID": 5
+  },
+  {
+    "City": "bottelfontein",
+    "AccentCity": "Bottelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.556133,
+    "Longitude": 26.384111,
+    "ProvinceID": 3
+  },
+  {
+    "City": "bovenfontein",
+    "AccentCity": "Bovenfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.134862,
+    "Longitude": 18.347396,
+    "ProvinceID": 11
+  },
+  {
+    "City": "braamfontein",
+    "AccentCity": "Braamfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.411281,
+    "Longitude": 26.486987,
+    "ProvinceID": 5
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.001755,
+    "Longitude": 30.95825,
+    "ProvinceID": 2
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.754148,
+    "Longitude": 26.810965,
+    "ProvinceID": 3
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.317207,
+    "Longitude": 26.945793,
+    "ProvinceID": 5
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.983805,
+    "Longitude": 28.792533,
+    "ProvinceID": 6
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.323104,
+    "Longitude": 29.611542,
+    "ProvinceID": 7
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.661103,
+    "Longitude": 26.685006,
+    "ProvinceID": 10
+  },
+  {
+    "City": "brakfontein",
+    "AccentCity": "Brakfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.635241,
+    "Longitude": 18.481933,
+    "ProvinceID": 11
+  },
+  {
+    "City": "brakkefontein",
+    "AccentCity": "Brakkefontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.635241,
+    "Longitude": 18.481933,
+    "ProvinceID": 11
+  },
+  {
+    "City": "brandfontein",
+    "AccentCity": "Brandfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.764307,
+    "Longitude": 19.87121,
+    "ProvinceID": 11
+  },
+  {
+    "City": "brink's vlakfontein",
+    "AccentCity": "Brink's Vlakfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.183333,
+    "Longitude": 27.8,
+    "ProvinceID": 6
+  },
+  {
+    "City": "buchufontein",
+    "AccentCity": "Buchufontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.243654,
+    "Longitude": 19.586724,
+    "ProvinceID": 8
+  },
+  {
+    "City": "buffelsfontein",
+    "AccentCity": "Buffelsfontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.921465,
+    "Longitude": 26.81751,
+    "ProvinceID": 10
+  },
+  {
+    "City": "bultfontein",
+    "AccentCity": "Bultfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -28.287559,
+    "Longitude": 26.149963,
+    "ProvinceID": 3
+  },
+  {
+    "City": "bultfontein",
+    "AccentCity": "Bultfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.761891,
+    "Longitude": 25.539734,
+    "ProvinceID": 5
+  },
+  {
+    "City": "bultfontein",
+    "AccentCity": "Bultfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.415422,
+    "Longitude": 28.486828,
+    "ProvinceID": 6
+  },
+  {
+    "City": "bultfontein",
+    "AccentCity": "Bultfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.116667,
+    "Longitude": 28.566667,
+    "ProvinceID": 7
+  },
+  {
+    "City": "bultongfontein",
+    "AccentCity": "Bultongfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.001568,
+    "Longitude": 28.992496,
+    "ProvinceID": 9
+  },
+  {
+    "City": "bylfontein",
+    "AccentCity": "Bylfontein",
+    "ProvinceName": "North West",
+    "Latitude": -27.142716,
+    "Longitude": 23.342107,
+    "ProvinceID": 10
+  },
+  {
+    "City": "chrissiefontein",
+    "AccentCity": "Chrissiefontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.584509,
+    "Longitude": 28.04573,
+    "ProvinceID": 6
+  },
+  {
+    "City": "cyferfontein",
+    "AccentCity": "Cyferfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.591731,
+    "Longitude": 26.46456,
+    "ProvinceID": 3
+  },
+  {
+    "City": "damarusfontein",
+    "AccentCity": "Damarusfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.843855,
+    "Longitude": 25.657295,
+    "ProvinceID": 5
+  },
+  {
+    "City": "damfontein",
+    "AccentCity": "Damfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.238924,
+    "Longitude": 27.310581,
+    "ProvinceID": 3
+  },
+  {
+    "City": "davidsfontein",
+    "AccentCity": "Davidsfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.098711,
+    "Longitude": 26.298076,
+    "ProvinceID": 5
+  },
+  {
+    "City": "deelfontein",
+    "AccentCity": "Deelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.603693,
+    "Longitude": 26.449893,
+    "ProvinceID": 3
+  },
+  {
+    "City": "deelfontein",
+    "AccentCity": "Deelfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.989722,
+    "Longitude": 23.800185,
+    "ProvinceID": 8
+  },
+  {
+    "City": "deliahsfontein",
+    "AccentCity": "Deliahsfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.277122,
+    "Longitude": 26.447793,
+    "ProvinceID": 3
+  },
+  {
+    "City": "olifantsfontein",
+    "AccentCity": "Olifantsfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.949257,
+    "Longitude": 28.229452,
+    "ProvinceID": 6
+  },
+  {
+    "City": "olyvenfontein",
+    "AccentCity": "Olyvenfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.280997,
+    "Longitude": 26.392739,
+    "ProvinceID": 3
+  },
+  {
+    "City": "ongeluksfontein",
+    "AccentCity": "Ongeluksfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.564831,
+    "Longitude": 26.321131,
+    "ProvinceID": 3
+  },
+  {
+    "City": "oos-driefontein",
+    "AccentCity": "Oos-Driefontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.384766,
+    "Longitude": 27.48637,
+    "ProvinceID": 6
+  },
+  {
+    "City": "kwestiefontein",
+    "AccentCity": "Kwestiefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.254214,
+    "Longitude": 26.015536,
+    "ProvinceID": 3
+  },
+  {
+    "City": "langfontein",
+    "AccentCity": "Langfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.049267,
+    "Longitude": 26.691802,
+    "ProvinceID": 5
+  },
+  {
+    "City": "lasfontein",
+    "AccentCity": "Lasfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.797605,
+    "Longitude": 25.941953,
+    "ProvinceID": 3
+  },
+  {
+    "City": "leeufontein",
+    "AccentCity": "Leeufontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.11434,
+    "Longitude": 26.905627,
+    "ProvinceID": 3
+  },
+  {
+    "City": "leeuwfontein",
+    "AccentCity": "Leeuwfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.297218,
+    "Longitude": 26.930734,
+    "ProvinceID": 5
+  },
+  {
+    "City": "leeuwfontein",
+    "AccentCity": "Leeuwfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.671792,
+    "Longitude": 28.35983,
+    "ProvinceID": 6
+  },
+  {
+    "City": "leeuwfontein",
+    "AccentCity": "Leeuwfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.996979,
+    "Longitude": 29.402272,
+    "ProvinceID": 9
+  },
+  {
+    "City": "leliefontein",
+    "AccentCity": "Leliefontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.314656,
+    "Longitude": 18.082778,
+    "ProvinceID": 8
+  },
+  {
+    "City": "lemaenfontein",
+    "AccentCity": "Lemaenfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.398565,
+    "Longitude": 26.812688,
+    "ProvinceID": 5
+  },
+  {
+    "City": "lemoenfontein",
+    "AccentCity": "Lemoenfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.73317,
+    "Longitude": 26.399581,
+    "ProvinceID": 3
+  },
+  {
+    "City": "lemoenfontein",
+    "AccentCity": "Lemoenfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -32.754314,
+    "Longitude": 28.032451,
+    "ProvinceID": 5
+  },
+  {
+    "City": "lepelfontein",
+    "AccentCity": "Lepelfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -31.05,
+    "Longitude": 17.833333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "lesfontein",
+    "AccentCity": "Lesfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.567735,
+    "Longitude": 25.689702,
+    "ProvinceID": 5
+  },
+  {
+    "City": "liepsfontein",
+    "AccentCity": "Liepsfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.013281,
+    "Longitude": 25.664148,
+    "ProvinceID": 5
+  },
+  {
+    "City": "ligfontein",
+    "AccentCity": "Ligfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.142766,
+    "Longitude": 30.945779,
+    "ProvinceID": 7
+  },
+  {
+    "City": "liliefontein",
+    "AccentCity": "Liliefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.526971,
+    "Longitude": 25.966761,
+    "ProvinceID": 3
+  },
+  {
+    "City": "loeriesfontein",
+    "AccentCity": "Loeriesfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.953935,
+    "Longitude": 19.443363,
+    "ProvinceID": 8
+  },
+  {
+    "City": "loeuwfontein",
+    "AccentCity": "Loeuwfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.765882,
+    "Longitude": 26.490932,
+    "ProvinceID": 3
+  },
+  {
+    "City": "makkateesfontein",
+    "AccentCity": "Makkateesfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.482676,
+    "Longitude": 26.878467,
+    "ProvinceID": 3
+  },
+  {
+    "City": "malfontein",
+    "AccentCity": "Malfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.683333,
+    "Longitude": 25.65,
+    "ProvinceID": 5
+  },
+  {
+    "City": "mapfontein",
+    "AccentCity": "Mapfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.216667,
+    "Longitude": 28.65,
+    "ProvinceID": 5
+  },
+  {
+    "City": "matjesfontein",
+    "AccentCity": "Matjesfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -33.55284,
+    "Longitude": 26.315506,
+    "ProvinceID": 5
+  },
+  {
+    "City": "matjesfontein",
+    "AccentCity": "Matjesfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.231036,
+    "Longitude": 20.583419,
+    "ProvinceID": 11
+  },
+  {
+    "City": "matjiesfontein",
+    "AccentCity": "Matjiesfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.231036,
+    "Longitude": 20.583419,
+    "ProvinceID": 11
+  },
+  {
+    "City": "matroosfontein",
+    "AccentCity": "Matroosfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.940598,
+    "Longitude": 18.574469,
+    "ProvinceID": 11
+  },
+  {
+    "City": "mealiefontein",
+    "AccentCity": "Mealiefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.38617,
+    "Longitude": 29.646618,
+    "ProvinceID": 5
+  },
+  {
+    "City": "melkhoutfontein",
+    "AccentCity": "Melkhoutfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.294269,
+    "Longitude": 21.80623,
+    "ProvinceID": 11
+  },
+  {
+    "City": "meriefontein",
+    "AccentCity": "Meriefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.772648,
+    "Longitude": 26.086604,
+    "ProvinceID": 5
+  },
+  {
+    "City": "messelfontein",
+    "AccentCity": "Messelfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.066667,
+    "Longitude": 30.883333,
+    "ProvinceID": 2
+  },
+  {
+    "City": "metzelfontein",
+    "AccentCity": "Metzelfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.066667,
+    "Longitude": 30.883333,
+    "ProvinceID": 2
+  },
+  {
+    "City": "herbstfontein",
+    "AccentCity": "Herbstfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.837863,
+    "Longitude": 28.713799,
+    "ProvinceID": 7
+  },
+  {
+    "City": "heumingfontein",
+    "AccentCity": "Heumingfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.419701,
+    "Longitude": 28.759674,
+    "ProvinceID": 6
+  },
+  {
+    "City": "hoekfontein",
+    "AccentCity": "Hoekfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.475094,
+    "Longitude": 26.968777,
+    "ProvinceID": 3
+  },
+  {
+    "City": "hoekfontein",
+    "AccentCity": "Hoekfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.616667,
+    "Longitude": 27.916667,
+    "ProvinceID": 10
+  },
+  {
+    "City": "holfontein",
+    "AccentCity": "Holfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.354744,
+    "Longitude": 27.041451,
+    "ProvinceID": 3
+  },
+  {
+    "City": "holfontein",
+    "AccentCity": "Holfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.164718,
+    "Longitude": 27.465381,
+    "ProvinceID": 6
+  },
+  {
+    "City": "inkruipsfontein",
+    "AccentCity": "Inkruipsfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.36803,
+    "Longitude": 26.513596,
+    "ProvinceID": 3
+  },
+  {
+    "City": "jagersfontein",
+    "AccentCity": "Jagersfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.761258,
+    "Longitude": 25.427058,
+    "ProvinceID": 3
+  },
+  {
+    "City": "jakkalsfontein",
+    "AccentCity": "Jakkalsfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.709943,
+    "Longitude": 25.621325,
+    "ProvinceID": 3
+  },
+  {
+    "City": "jonasfontein",
+    "AccentCity": "Jonasfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.749138,
+    "Longitude": 26.176685,
+    "ProvinceID": 3
+  },
+  {
+    "City": "jongensfontein",
+    "AccentCity": "Jongensfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -34.42562,
+    "Longitude": 21.33995,
+    "ProvinceID": 11
+  },
+  {
+    "City": "jukfontein",
+    "AccentCity": "Jukfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -32.8,
+    "Longitude": 19.966667,
+    "ProvinceID": 11
+  },
+  {
+    "City": "kalbasfontein",
+    "AccentCity": "Kalbasfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.501853,
+    "Longitude": 27.683161,
+    "ProvinceID": 6
+  },
+  {
+    "City": "kalfontein",
+    "AccentCity": "Kalfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.733616,
+    "Longitude": 28.86632,
+    "ProvinceID": 9
+  },
+  {
+    "City": "kalkfontein",
+    "AccentCity": "Kalkfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.65,
+    "Longitude": 28.983333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kalkfontein",
+    "AccentCity": "Kalkfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.897807,
+    "Longitude": 26.745012,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kalkfontein",
+    "AccentCity": "Kalkfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.733616,
+    "Longitude": 28.86632,
+    "ProvinceID": 9
+  },
+  {
+    "City": "kapokfontein",
+    "AccentCity": "Kapokfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.826833,
+    "Longitude": 26.399936,
+    "ProvinceID": 3
+  },
+  {
+    "City": "kappiesfontein",
+    "AccentCity": "Kappiesfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.0461,
+    "Longitude": 26.288053,
+    "ProvinceID": 5
+  },
+  {
+    "City": "kareefontein",
+    "AccentCity": "Kareefontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.55,
+    "Longitude": 28.3,
+    "ProvinceID": 9
+  },
+  {
+    "City": "katfontein",
+    "AccentCity": "Katfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.180526,
+    "Longitude": 26.067367,
+    "ProvinceID": 3
+  },
+  {
+    "City": "rietfontein",
+    "AccentCity": "Rietfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.183333,
+    "Longitude": 18.266667,
+    "ProvinceID": 11
+  },
+  {
+    "City": "romansfontein",
+    "AccentCity": "Romansfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.499944,
+    "Longitude": 26.280221,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rondefontein",
+    "AccentCity": "Rondefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.891385,
+    "Longitude": 26.897525,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rooifontein",
+    "AccentCity": "Rooifontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.170157,
+    "Longitude": 26.867139,
+    "ProvinceID": 3
+  },
+  {
+    "City": "rooifontein",
+    "AccentCity": "Rooifontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.076389,
+    "Longitude": 28.644167,
+    "ProvinceID": 7
+  },
+  {
+    "City": "rooifontein",
+    "AccentCity": "Rooifontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.065578,
+    "Longitude": 18.260138,
+    "ProvinceID": 8
+  },
+  {
+    "City": "rooifontein",
+    "AccentCity": "Rooifontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.633333,
+    "Longitude": 29.283333,
+    "ProvinceID": 9
+  },
+  {
+    "City": "rooikopfontein",
+    "AccentCity": "Rooikopfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.464594,
+    "Longitude": 26.929972,
+    "ProvinceID": 3
+  },
+  {
+    "City": "ruigtefontein",
+    "AccentCity": "Ruigtefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.334047,
+    "Longitude": 25.837659,
+    "ProvinceID": 5
+  },
+  {
+    "City": "rusfontein",
+    "AccentCity": "Rusfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -30.475085,
+    "Longitude": 29.298996,
+    "ProvinceID": 2
+  },
+  {
+    "City": "rusfontein",
+    "AccentCity": "Rusfontein",
+    "ProvinceName": "North West",
+    "Latitude": -27.033333,
+    "Longitude": 23.233333,
+    "ProvinceID": 10
+  },
+  {
+    "City": "rustfontein",
+    "AccentCity": "Rustfontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -30.475085,
+    "Longitude": 29.298996,
+    "ProvinceID": 2
+  },
+  {
+    "City": "rustfontein",
+    "AccentCity": "Rustfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.847477,
+    "Longitude": 26.451464,
+    "ProvinceID": 3
+  },
+  {
+    "City": "sandfontein",
+    "AccentCity": "Sandfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.983333,
+    "Longitude": 18.933333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "sandfontein",
+    "AccentCity": "Sandfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -23.728268,
+    "Longitude": 29.121947,
+    "ProvinceID": 9
+  },
+  {
+    "City": "sandfontein",
+    "AccentCity": "Sandfontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.702254,
+    "Longitude": 27.798716,
+    "ProvinceID": 10
+  },
+  {
+    "City": "schilpadfontein",
+    "AccentCity": "Schilpadfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.014225,
+    "Longitude": 28.783647,
+    "ProvinceID": 7
+  },
+  {
+    "City": "schoonbeeksfontein",
+    "AccentCity": "Schoonbeeksfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.388128,
+    "Longitude": 25.780876,
+    "ProvinceID": 5
+  },
+  {
+    "City": "schulpfontein",
+    "AccentCity": "Schulpfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.1,
+    "Longitude": 17.183333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "sculpfontein",
+    "AccentCity": "Sculpfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.1,
+    "Longitude": 17.183333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "serfontein",
+    "AccentCity": "Serfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.717286,
+    "Longitude": 26.089906,
+    "ProvinceID": 5
+  },
+  {
+    "City": "sesfontein",
+    "AccentCity": "Sesfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.082507,
+    "Longitude": 28.367682,
+    "ProvinceID": 6
+  },
+  {
+    "City": "sewefontein",
+    "AccentCity": "Sewefontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -27.666667,
+    "Longitude": 31.066667,
+    "ProvinceID": 2
+  },
+  {
+    "City": "sewefontein",
+    "AccentCity": "Sewefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.818106,
+    "Longitude": 26.041287,
+    "ProvinceID": 5
+  },
+  {
+    "City": "sewefontein",
+    "AccentCity": "Sewefontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.718925,
+    "Longitude": 29.716556,
+    "ProvinceID": 7
+  },
+  {
+    "City": "sieraadsfontein",
+    "AccentCity": "Sieraadsfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.405555,
+    "Longitude": 26.342153,
+    "ProvinceID": 5
+  },
+  {
+    "City": "skatfontein",
+    "AccentCity": "Skatfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.385114,
+    "Longitude": 26.784191,
+    "ProvinceID": 3
+  },
+  {
+    "City": "skietfontein",
+    "AccentCity": "Skietfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.68383,
+    "Longitude": 26.599632,
+    "ProvinceID": 5
+  },
+  {
+    "City": "skietfontein",
+    "AccentCity": "Skietfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.963422,
+    "Longitude": 22.097055,
+    "ProvinceID": 8
+  },
+  {
+    "City": "skilpadfontein",
+    "AccentCity": "Skilpadfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.014225,
+    "Longitude": 28.783647,
+    "ProvinceID": 7
+  },
+  {
+    "City": "skulpfontein",
+    "AccentCity": "Skulpfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.1,
+    "Longitude": 17.183333,
+    "ProvinceID": 8
+  },
+  {
+    "City": "slangfontein",
+    "AccentCity": "Slangfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.434233,
+    "Longitude": 26.562112,
+    "ProvinceID": 3
+  },
+  {
+    "City": "sleutelfontein",
+    "AccentCity": "Sleutelfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -25.06324,
+    "Longitude": 28.919715,
+    "ProvinceID": 7
+  },
+  {
+    "City": "soebatsfontein",
+    "AccentCity": "Soebatsfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.118482,
+    "Longitude": 17.592344,
+    "ProvinceID": 8
+  },
+  {
+    "City": "soetfontein",
+    "AccentCity": "Soetfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.6,
+    "Longitude": 26.25,
+    "ProvinceID": 3
+  },
+  {
+    "City": "soetfontein",
+    "AccentCity": "Soetfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.011119,
+    "Longitude": 26.678623,
+    "ProvinceID": 5
+  },
+  {
+    "City": "spetfontein",
+    "AccentCity": "Spetfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.2,
+    "Longitude": 26.966667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "spreeufontein",
+    "AccentCity": "Spreeufontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.099104,
+    "Longitude": 25.902262,
+    "ProvinceID": 3
+  },
+  {
+    "City": "spreeufontein",
+    "AccentCity": "Spreeufontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.733333,
+    "Longitude": 26.516667,
+    "ProvinceID": 5
+  },
+  {
+    "City": "springbokfontein",
+    "AccentCity": "Springbokfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.435679,
+    "Longitude": 25.983169,
+    "ProvinceID": 3
+  },
+  {
+    "City": "springbok fontein",
+    "AccentCity": "Springbok Fontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -29.664336,
+    "Longitude": 17.886495,
+    "ProvinceID": 8
+  },
+  {
+    "City": "springfontein",
+    "AccentCity": "Springfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.427063,
+    "Longitude": 26.905225,
+    "ProvinceID": 3
+  },
+  {
+    "City": "springfontein",
+    "AccentCity": "Springfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.647786,
+    "Longitude": 25.901277,
+    "ProvinceID": 5
+  },
+  {
+    "City": "middelfontein",
+    "AccentCity": "Middelfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.810747,
+    "Longitude": 26.257547,
+    "ProvinceID": 3
+  },
+  {
+    "City": "middelfontein",
+    "AccentCity": "Middelfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.965316,
+    "Longitude": 22.23386,
+    "ProvinceID": 8
+  },
+  {
+    "City": "mid klipfontein",
+    "AccentCity": "Mid Klipfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.924208,
+    "Longitude": 25.956915,
+    "ProvinceID": 5
+  },
+  {
+    "City": "mieliefontein",
+    "AccentCity": "Mieliefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.38617,
+    "Longitude": 29.646618,
+    "ProvinceID": 5
+  },
+  {
+    "City": "misgunsfontein",
+    "AccentCity": "Misgunsfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.586418,
+    "Longitude": 26.206118,
+    "ProvinceID": 3
+  },
+  {
+    "City": "modderfontein",
+    "AccentCity": "Modderfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.091011,
+    "Longitude": 28.166905,
+    "ProvinceID": 6
+  },
+  {
+    "City": "modderfontein",
+    "AccentCity": "Modderfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.808932,
+    "Longitude": 17.197388,
+    "ProvinceID": 8
+  },
+  {
+    "City": "mooifontein",
+    "AccentCity": "Mooifontein",
+    "ProvinceName": "Free State",
+    "Latitude": -27.9,
+    "Longitude": 29.566667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "mooifontein",
+    "AccentCity": "Mooifontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.88798,
+    "Longitude": 29.90254,
+    "ProvinceID": 7
+  },
+  {
+    "City": "mooifontein",
+    "AccentCity": "Mooifontein",
+    "ProvinceName": "North West",
+    "Latitude": -26.251661,
+    "Longitude": 25.604398,
+    "ProvinceID": 10
+  },
+  {
+    "City": "muishondfontein",
+    "AccentCity": "Muishondfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -32.604721,
+    "Longitude": 18.716174,
+    "ProvinceID": 11
+  },
+  {
+    "City": "naboomfontein",
+    "AccentCity": "Naboomfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.352961,
+    "Longitude": 28.84462,
+    "ProvinceID": 9
+  },
+  {
+    "City": "negefontein",
+    "AccentCity": "Negefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.366667,
+    "Longitude": 27.266667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "negenfontein",
+    "AccentCity": "Negenfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.366667,
+    "Longitude": 27.266667,
+    "ProvinceID": 3
+  },
+  {
+    "City": "nieujaarsfontein",
+    "AccentCity": "Nieujaarsfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.318339,
+    "Longitude": 29.664712,
+    "ProvinceID": 5
+  },
+  {
+    "City": "nieuwefontein",
+    "AccentCity": "Nieuwefontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.962284,
+    "Longitude": 17.836296,
+    "ProvinceID": 8
+  },
+  {
+    "City": "nieuwefontein",
+    "AccentCity": "Nieuwefontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -30.594981,
+    "Longitude": 18.687113,
+    "ProvinceID": 11
+  },
+  {
+    "City": "niewefontein",
+    "AccentCity": "Niewefontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -30.594981,
+    "Longitude": 18.687113,
+    "ProvinceID": 11
+  },
+  {
+    "City": "noordelike haasfontein",
+    "AccentCity": "Noordelike Haasfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.918343,
+    "Longitude": 26.497037,
+    "ProvinceID": 5
+  },
+  {
+    "City": "nuwefontein",
+    "AccentCity": "Nuwefontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -30.962284,
+    "Longitude": 17.836296,
+    "ProvinceID": 8
+  },
+  {
+    "City": "diefontein",
+    "AccentCity": "Diefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.642991,
+    "Longitude": 26.316247,
+    "ProvinceID": 3
+  },
+  {
+    "City": "diepfontein",
+    "AccentCity": "Diepfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.382345,
+    "Longitude": 27.044887,
+    "ProvinceID": 3
+  },
+  {
+    "City": "diepfontein",
+    "AccentCity": "Diepfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.738687,
+    "Longitude": 26.01737,
+    "ProvinceID": 5
+  },
+  {
+    "City": "diepfontein",
+    "AccentCity": "Diepfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.327453,
+    "Longitude": 29.511559,
+    "ProvinceID": 7
+  },
+  {
+    "City": "doornfontein",
+    "AccentCity": "Doornfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -33.1,
+    "Longitude": 24.266667,
+    "ProvinceID": 5
+  },
+  {
+    "City": "doornfontein",
+    "AccentCity": "Doornfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -26.394885,
+    "Longitude": 27.320884,
+    "ProvinceID": 6
+  },
+  {
+    "City": "doornfontein",
+    "AccentCity": "Doornfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.330475,
+    "Longitude": 29.081059,
+    "ProvinceID": 9
+  },
+  {
+    "City": "driefontein",
+    "AccentCity": "Driefontein",
+    "ProvinceName": "KwaZulu Natal",
+    "Latitude": -28.341061,
+    "Longitude": 29.698476,
+    "ProvinceID": 2
+  },
+  {
+    "City": "driefontein",
+    "AccentCity": "Driefontein",
+    "ProvinceName": "Free State",
+    "Latitude": -28.695482,
+    "Longitude": 27.617149,
+    "ProvinceID": 3
+  },
+  {
+    "City": "driefontein",
+    "AccentCity": "Driefontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.068673,
+    "Longitude": 25.531514,
+    "ProvinceID": 5
+  },
+  {
+    "City": "driefontein",
+    "AccentCity": "Driefontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.977739,
+    "Longitude": 30.454877,
+    "ProvinceID": 7
+  },
+  {
+    "City": "driefontein",
+    "AccentCity": "Driefontein",
+    "ProvinceName": "North West",
+    "Latitude": -25.140277,
+    "Longitude": 25.968427,
+    "ProvinceID": 10
+  },
+  {
+    "City": "droefontein",
+    "AccentCity": "Dro�fontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.666667,
+    "Longitude": 25.8,
+    "ProvinceID": 5
+  },
+  {
+    "City": "dronkfontein",
+    "AccentCity": "Dronkfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -30.6,
+    "Longitude": 26.533333,
+    "ProvinceID": 3
+  },
+  {
+    "City": "droogfontein",
+    "AccentCity": "Droogfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.684817,
+    "Longitude": 26.438191,
+    "ProvinceID": 3
+  },
+  {
+    "City": "drupfontein",
+    "AccentCity": "Drupfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.92067,
+    "Longitude": 26.172498,
+    "ProvinceID": 3
+  },
+  {
+    "City": "dwarsfontein",
+    "AccentCity": "Dwarsfontein",
+    "ProvinceName": "Mpumalanga",
+    "Latitude": -26.033275,
+    "Longitude": 28.794789,
+    "ProvinceID": 7
+  },
+  {
+    "City": "dwarsfontein",
+    "AccentCity": "Dwarsfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.683333,
+    "Longitude": 27.05,
+    "ProvinceID": 9
+  },
+  {
+    "City": "eksteenfontein",
+    "AccentCity": "Eksteenfontein",
+    "ProvinceName": "Northern Cape",
+    "Latitude": -28.823496,
+    "Longitude": 17.254173,
+    "ProvinceID": 8
+  },
+  {
+    "City": "elandsfontein",
+    "AccentCity": "Elandsfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.696667,
+    "Longitude": 28.568056,
+    "ProvinceID": 6
+  },
+  {
+    "City": "elandsfontein",
+    "AccentCity": "Elandsfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.171208,
+    "Longitude": 19.330762,
+    "ProvinceID": 11
+  },
+  {
+    "City": "eselfontein",
+    "AccentCity": "Eselfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.401427,
+    "Longitude": 19.433684,
+    "ProvinceID": 11
+  },
+  {
+    "City": "farao's fontein",
+    "AccentCity": "Farao's Fontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.613555,
+    "Longitude": 26.953708,
+    "ProvinceID": 3
+  },
+  {
+    "City": "garsfontein",
+    "AccentCity": "Garsfontein",
+    "ProvinceName": "Gauteng",
+    "Latitude": -25.793499,
+    "Longitude": 28.299999,
+    "ProvinceID": 6
+  },
+  {
+    "City": "geduldfontein",
+    "AccentCity": "Geduldfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -31.104742,
+    "Longitude": 25.834272,
+    "ProvinceID": 5
+  },
+  {
+    "City": "geluksfontein",
+    "AccentCity": "Geluksfontein",
+    "ProvinceName": "Free State",
+    "Latitude": -29.509625,
+    "Longitude": 25.63428,
+    "ProvinceID": 3
+  },
+  {
+    "City": "gelykfontein",
+    "AccentCity": "Gelykfontein",
+    "ProvinceName": "Eastern Cape",
+    "Latitude": -30.757428,
+    "Longitude": 25.714388,
+    "ProvinceID": 5
+  },
+  {
+    "City": "gemsbokfontein",
+    "AccentCity": "Gemsbokfontein",
+    "ProvinceName": "Limpopo",
+    "Latitude": -24.383333,
+    "Longitude": 28.516667,
+    "ProvinceID": 9
+  },
+  {
+    "City": "genasfontein",
+    "AccentCity": "Genasfontein",
+    "ProvinceName": "Western Cape",
+    "Latitude": -33.1,
+    "Longitude": 22.833333,
+    "ProvinceID": 11
+  }
+]
